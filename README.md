@@ -17,13 +17,15 @@ ESP32 LED Matrix Display with Audio-Reactive Patterns
 
 #### Remote Control interface
 
-![WhatsApp Image 2025-07-29 at 21 35 45_5a8f9ef6](https://github.com/user-attachments/assets/95081333-1d8b-42e1-91d2-e7bf3bdbe58b)
+![WhatsApp Image 2025-07-29 at 21 35 45_3603966f](https://github.com/user-attachments/assets/56850e13-5d5c-4c3e-bbb2-d58df664b038)
 
-![WhatsApp Image 2025-07-29 at 21 35 45_68e7d4b3](https://github.com/user-attachments/assets/7b83581b-a3b2-447e-82b9-926a82e4f1e4)
+![WhatsApp Image 2025-07-29 at 21 35 45_af4115d5](https://github.com/user-attachments/assets/740ac3ae-7104-4e5c-82ef-fd6f4c2d1e14)
 
-![WhatsApp Image 2025-07-29 at 21 35 46_911b26bf](https://github.com/user-attachments/assets/f6eee48d-5336-4488-be9e-d45157d2ed07)
+![WhatsApp Image 2025-07-29 at 21 35 46_417f859e](https://github.com/user-attachments/assets/60d81e66-b516-4d62-b72f-0e9f89669171)
 
-![WhatsApp Image 2025-07-29 at 21 35 46_6095ad0a](https://github.com/user-attachments/assets/d1a6388b-57fd-4fa1-8d28-c304bb574a03)
+![WhatsApp Image 2025-07-29 at 21 35 46_f70b61b3](https://github.com/user-attachments/assets/3f726b33-4c38-43b7-b965-dc04c511c359)
+
+
 
 
 
