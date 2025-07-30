@@ -15,7 +15,7 @@ ESP32 LED Matrix Display with Audio-Reactive Patterns
 - **Customizable:** Easily extendable with new patterns and adjustable parameters like the matrix size and different gradients of colours
 - **Remote control ability:** The ESP32 is hosting a server and a frontend which can be controlled locally and change dimension sizes and patterns.
 
-#### Remote Control interface
+## Remote Control interface
 
 ![WhatsApp Image 2025-07-29 at 21 35 45_3603966f](https://github.com/user-attachments/assets/56850e13-5d5c-4c3e-bbb2-d58df664b038)
 
@@ -26,6 +26,23 @@ ESP32 LED Matrix Display with Audio-Reactive Patterns
 ![WhatsApp Image 2025-07-29 at 21 35 46_f70b61b3](https://github.com/user-attachments/assets/3f726b33-4c38-43b7-b965-dc04c511c359)
 
 
+### Patterns
+
+![IMG-20250730-WA0008](https://github.com/user-attachments/assets/ea0fe595-50f9-486c-b4d3-aa498275fb60)
+
+![IMG-20250730-WA0013](https://github.com/user-attachments/assets/2b1b03d8-4aaa-40c0-91e9-4d89a9f697ae)
+
+![IMG-20250730-WA0008](https://github.com/user-attachments/assets/0737d0e1-0c73-4f2b-9835-40511f2a11e7)
+
+![IMG-20250730-WA0016](https://github.com/user-attachments/assets/60b22e69-ef57-44a1-946d-59bb647a625b)
+
+![IMG-20250730-WA0006](https://github.com/user-attachments/assets/3ff4552e-b929-4c13-a26a-212116417810)
+
+![IMG-20250730-WA0007](https://github.com/user-attachments/assets/4e3e2e19-1e0b-40a9-87cb-194ca0b8b07f)
+
+![IMG-20250730-WA0012](https://github.com/user-attachments/assets/22383d4d-13ff-44ff-ae3a-41c6c914c2e0)
+
+![IMG-20250730-WA0015](https://github.com/user-attachments/assets/cbd3c766-5299-4330-a76c-d3228d5a5b1c)
 
 
 
